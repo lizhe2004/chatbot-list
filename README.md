@@ -29,10 +29,12 @@
  - [携程：上万坐席呼叫中心异地双活架构及系统设计](https://mp.weixin.qq.com/s/LbsfqRIUe2eU6bHuSlaXig)
  - [携程呼叫中心异地双活——座席服务的高可用](https://mp.weixin.qq.com/s/-RxPjgrMqnjzHLyDuf5FtA)
  - [AI 在携程智能客服的应用](https://gitbook.cn/books/5b68ff1849f1ee5bca044a01/index.html)
- -[携程度假智能云客服平台](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b83e05e8eb6bebd91298)
+ - [携程度假智能云客服平台](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b83e05e8eb6bebd91298)
  - [携程基于云的软呼叫中心及客服平台架构实践](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c545ab61d9d3040d6aef9ba)
--[机器学习在酒店呼叫中心自动化中的应用](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b6be05e8eb6bebd9127b)
-- [携程“小诗机”背后的机器学习和自然语言处理技术](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52be38094c09644b23f021)
+ - [机器学习在酒店呼叫中心自动化中的应用](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b6be05e8eb6bebd9127b)
+
+- [携程“小诗机”背后的机器学习和自然语言处理技术(https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52be38094c09644b23f021)
+
 -[行业智能客服构建探索](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52f476dc96fe6e50a51cf9)
 
 # 京东
