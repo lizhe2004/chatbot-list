@@ -33,9 +33,9 @@
  - [携程基于云的软呼叫中心及客服平台架构实践](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c545ab61d9d3040d6aef9ba)
  - [机器学习在酒店呼叫中心自动化中的应用](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b6be05e8eb6bebd9127b)
 
-- [携程“小诗机”背后的机器学习和自然语言处理技术(https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52be38094c09644b23f021)
+- [携程“小诗机”背后的机器学习和自然语言处理技术](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52be38094c09644b23f021)
 
--[行业智能客服构建探索](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52f476dc96fe6e50a51cf9)
+- [行业智能客服构建探索](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52f476dc96fe6e50a51cf9)
 
 # 京东
  - [“天枢”智能调度系统，让京东专属客服与您“一拍即合”](https://mp.weixin.qq.com/s/qlq_reYBMFhy75075vGKXg)
