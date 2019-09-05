@@ -3,7 +3,7 @@
 # 阿里巴巴
 ## 小蜜
 
-
+ - [大中台、小前台，阿里小蜜这样突破对话机器人发展瓶颈](https://www.infoq.cn/article/8cN5eZ6Bgg*CWM5z5jYr)
  - [机器如何猜你所想？阿里小蜜预测平台揭秘](https://mp.weixin.qq.com/s/L5yNtibL-D9Rv9hd-WLN3g)
  - [阿里小蜜：智能服务技术实践及场景探索](https://mp.weixin.qq.com/s/uzmcISuDbf7EkralufAKhA)
 
@@ -99,9 +99,6 @@
 
 # 其他
 ## 聊天机器人介绍
-
-
--[大中台、小前台，阿里小蜜这样突破对话机器人发展瓶颈](https://www.infoq.cn/article/8cN5eZ6Bgg*CWM5z5jYr)
 
 - [实录分享 | 计算未来轻沙龙：对话系统研究进展（视频 + PPT）](https://mp.weixin.qq.com/s/YxpU4Q7QsUS3RGtlcK4Gwg)
 - [聊天机器人初学者完全指南](https://mp.weixin.qq.com/s/oOfJ-i-oKVXsRFICEPes5w)
