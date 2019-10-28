@@ -13,7 +13,10 @@
  - [揭秘阿里小蜜：基于检索模型和生成模型相结合的聊天引擎 | PaperDaily #25](https://mp.weixin.qq.com/s/bzjRlFfh7tz4OWVpGnNPwQ)
  - [干货 | 阿里小蜜-电商领域的智能助理技术实践](https://mp.weixin.qq.com/s/eFm89Q_AMeYFTrJl4uLOgA)
  - [多语言阿里小蜜——七步构建跨越语言鸿沟的对话机器人](https://www.infoq.cn/article/1pUDF9_bdC523fwHJh02)
- - 
+ -[阿里小蜜中的情绪回复能力](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490526&idx=1&sn=4012fe053aeff0cd76b1aaa95421d06b&chksm=fbd4a9b2cca320a4018ed35b6b2f0a0cb21669198f28776cbb9cf4239eb6b86974a647643f4d&scene=21#wechat_redirect)
+ -
+ 
+ -[通用领域对话问答](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490733&idx=2&sn=7f2fe71b0805a6621e1033b4f37b4a7e&chksm=fbd4aec1cca327d7eeb439f565a3c145704ae83188d1119310700e327ca9dde7b444f060e68c&scene=21#wechat_redirect)
  ### 非技术推广
   - [小蜜家族知多少：人工智能客服如何做到“不智障”？](https://mp.weixin.qq.com/s/d86lvXwU7Z1QloPVqQfkCQ)
  - [售后智能客服：店小蜜用户体验地图](https://mp.weixin.qq.com/s/YcWJNEtU4cElBj5mapEp8Q)
@@ -81,6 +84,7 @@
 
 # 美团
 - [「回顾」智变中的美团客服](https://mp.weixin.qq.com/s/oU2FbqJEqnx4qp1HOmsuYA)
+- [美团对话理解技术及实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490791&idx=1&sn=a29c66fab4bb2d9aa6d8ec3cb14925e6&chksm=fbd4ae8bcca3279dc3e7c01140a1d18f4d32bd2a5ff0f2b0a60b83fcd7969e61c03f3aeba8f1&scene=21#wechat_redirect)
 []()
 # 滴滴
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
