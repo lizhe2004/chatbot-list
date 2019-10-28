@@ -77,7 +77,7 @@
 # 饿了么 
 - [饿了么客服体系 | 虽然天天见，我们却对它一无所知](http://m.sohu.com/a/234684739_162179)
 - [机器学习算法在饿了么供需平衡系统中的应用](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51ba7305e8eb6bebd912af)
-
+- [饿了么客服系统架构演进之路](https://ke.qq.com/course/212395?taid=1335902332992939)
 
 # 美团
 - [「回顾」智变中的美团客服](https://mp.weixin.qq.com/s/oU2FbqJEqnx4qp1HOmsuYA)
