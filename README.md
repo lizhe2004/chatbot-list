@@ -2,7 +2,8 @@
 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍
 # 阿里巴巴
 ## 小蜜
-
+ - [阿里小蜜：知识结构化推动智能客服升级](https://mp.weixin.qq.com/s/x9CkAyLKgLj7E7K1F2Q6iA)
+ - [阿里云小蜜对话机器人背后的核心算法](https://mp.weixin.qq.com/s/ksVbQq42ay5lxcfqNwBgxA)
  - [大中台、小前台，阿里小蜜这样突破对话机器人发展瓶颈](https://www.infoq.cn/article/8cN5eZ6Bgg*CWM5z5jYr)
  - [机器如何猜你所想？阿里小蜜预测平台揭秘](https://mp.weixin.qq.com/s/L5yNtibL-D9Rv9hd-WLN3g)
  - [阿里小蜜：智能服务技术实践及场景探索](https://mp.weixin.qq.com/s/uzmcISuDbf7EkralufAKhA)
@@ -60,6 +61,9 @@
 
 - [行业智能客服构建探索](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52f476dc96fe6e50a51cf9)
 - [干货 | 揭秘携程基于融合通讯技术的新一代客服系统](https://mp.weixin.qq.com/s/cNW_GEQXOYQvJthnVSgimw)
+
+# 去哪儿
+- [智能客服系统在机票售后的应用实践](https://mp.weixin.qq.com/s/V6sXtL22q3fV2U_6BvVxfQ)
 
 # 京东
  - [“天枢”智能调度系统，让京东专属客服与您“一拍即合”](https://mp.weixin.qq.com/s/qlq_reYBMFhy75075vGKXg)
@@ -123,6 +127,7 @@
 -[专栏 | 聊天机器人：困境和破局](https://mp.weixin.qq.com/s/6lY4SBVioqHyCzDimQNn8w)
 - [甲骨文 聊天机器人，全天候的智能助理](https://mp.weixin.qq.com/s/jHkuR3aNPUHjyVzxh2-ejg)
 - [AI聊天机器人设计指南 | AIID编译组](https://mp.weixin.qq.com/s/bA0Dfe4VwUK17NphaWVssg)
+
 ## 其他
 - [对话机器人思考(下):复杂多轮对话的关键功能点](https://mp.weixin.qq.com/s/sBXZVFGWPRtDI2tc4Z-Rnw)
 
@@ -215,7 +220,7 @@
 
 
 ## 智能客服
-
+- [十张图解读我国智能客服行业发展现状与前景](https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw)
 - [AI前沿 | 如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
 - [不是所有的智能机器人都能做好客服——浅谈智能客服机器人评价指标新趋势](https://mp.weixin.qq.com/s/n-uicubtTFyOH00HAvRgMQ)
 - [能感知情绪的 IBM 机器人，正打算消灭人工在线客服](https://mp.weixin.qq.com/s/hYnnWFlZr2R_DNcGuhw6Zg)
@@ -225,6 +230,7 @@
 - [追一科技券商AI沙龙：智能呼叫的价值落地](https://mp.weixin.qq.com/s/3FM8z5Fxtlfau33NaWhrpQ)
 - [当Elasticsearch遇见智能客服机器人](https://mp.weixin.qq.com/s/zjlFTc6tPVXyOYo2d4GVbQ)
 - [详解第二代客服机器人 | 聚焦问题解决，客户服务任务一站直达](https://mp.weixin.qq.com/s/OQL4Acw_6ukLhoQzR5dN7A)
+- [项目实战｜智能客服（“七鱼”、“小i机器人”）产品分析](https://www.toutiao.com/a6491864897222083085/?timestamp=1572194640&app=news_article&group_id=6491864897222083085&req_id=2019102800440001001404115117B2ADF3)
 ## 智齿
 -[智齿 | 机器人来当客服 会是什么样？](https://mp.weixin.qq.com/s/jreM-RS6JT4Fk5tk-wDS_Q)
 ## 知识库
