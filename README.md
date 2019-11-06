@@ -1,5 +1,8 @@
 # chatbot-list
 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍
+
+ <img src="reliao_img_1573010102391.jpeg" height = "600" div align=right />
+
 # 阿里巴巴
 ## 小蜜
  - [阿里小蜜：知识结构化推动智能客服升级](https://mp.weixin.qq.com/s/x9CkAyLKgLj7E7K1F2Q6iA)
