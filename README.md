@@ -58,7 +58,7 @@
  - [携程度假智能云客服平台](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b83e05e8eb6bebd91298)
  - [携程基于云的软呼叫中心及客服平台架构实践](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c545ab61d9d3040d6aef9ba)
  - [机器学习在酒店呼叫中心自动化中的应用](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51b6be05e8eb6bebd9127b)
-
+ - [干货 | 携程度假智能客服机器人背后是这么玩的](https://mp.weixin.qq.com/s/4rlpTSNX9XrqPTJ5ufPm5w)
 - [携程“小诗机”背后的机器学习和自然语言处理技术](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52be38094c09644b23f021)
 
 - [行业智能客服构建探索](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52f476dc96fe6e50a51cf9)
@@ -92,6 +92,7 @@
 # 美团
 - [「回顾」智变中的美团客服](https://mp.weixin.qq.com/s/oU2FbqJEqnx4qp1HOmsuYA)
 - [美团对话理解技术及实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490791&idx=1&sn=a29c66fab4bb2d9aa6d8ec3cb14925e6&chksm=fbd4ae8bcca3279dc3e7c01140a1d18f4d32bd2a5ff0f2b0a60b83fcd7969e61c03f3aeba8f1&scene=21#wechat_redirect)
+- [基于知识图谱的问答在美团智能交互场景中的应用和演进](https://mp.weixin.qq.com/s/qn8k_6GmvTsW6TF786KWUw)
 []()
 # 滴滴
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
@@ -104,6 +105,8 @@
 # 小冰
 - [微软小冰对话机器人架构](https://zhuanlan.zhihu.com/p/57532328?utm_source=wechat_timeline&utm_medium=social&utm_oi=26774079537152&from=timeline)
 - [独家 | 专访微软小冰负责人李笛：智能助手是创造需求，而非仅提高效率](https://mp.weixin.qq.com/s/xiJMT5MNYPJhyGQA5BDdNw)
+
+- [聊天机器人语言理解模块开发实践](http://note.youdao.com/noteshare?id=4dafb6326f537f589150e4179af680e1)
 
 # 贝壳
 - [【WOT峰会回顾】人工智能和人工冰释前嫌](https://mp.weixin.qq.com/s/b-Y8LUlKt8WOHtJG-HHFGA)
