@@ -115,7 +115,8 @@
 - [贝壳智能客服系统的构建与算法迭代](https://www.infoq.cn/article/9ZUeZ8y*kVzyloZ5lkpg)
 # 第四范式
 - [15年研发经验博士手把手教学：从零开始搭建智能客服](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489645&idx=1&sn=d58d55e64aab528d9365e2438a1cc683&chksm=fbe9a1a2cc9e28b42d4a6d18a5b7d9dbeadaf96f942c73a44b9b0214c6468bbe4a014a57062d&scene=27#wechat_redirect)
-
+# 腾讯
+- [腾讯知文问答引擎在工业级实战中的演化](https://www.infoq.cn/article/QuWYBASaV0C9PTYpwwF0)
 # 其他
 ## 聊天机器人介绍
 - [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
