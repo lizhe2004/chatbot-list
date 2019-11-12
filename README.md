@@ -107,9 +107,12 @@
 - [独家 | 专访微软小冰负责人李笛：智能助手是创造需求，而非仅提高效率](https://mp.weixin.qq.com/s/xiJMT5MNYPJhyGQA5BDdNw)
 
 - [聊天机器人语言理解模块开发实践](http://note.youdao.com/noteshare?id=4dafb6326f537f589150e4179af680e1)
-
+# 苏宁
+- [苏宁智能机器人平台
+](https://www.infoq.cn/article/74fj3C98uSHC5yKNZb9z)
 # 贝壳
 - [【WOT峰会回顾】人工智能和人工冰释前嫌](https://mp.weixin.qq.com/s/b-Y8LUlKt8WOHtJG-HHFGA)
+- [贝壳智能客服系统的构建与算法迭代](https://www.infoq.cn/article/9ZUeZ8y*kVzyloZ5lkpg)
 # 第四范式
 - [15年研发经验博士手把手教学：从零开始搭建智能客服](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489645&idx=1&sn=d58d55e64aab528d9365e2438a1cc683&chksm=fbe9a1a2cc9e28b42d4a6d18a5b7d9dbeadaf96f942c73a44b9b0214c6468bbe4a014a57062d&scene=27#wechat_redirect)
 
