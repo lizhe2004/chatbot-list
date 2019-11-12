@@ -99,7 +99,7 @@
 - [智能客服渗透叫车平台易到、滴滴、首汽哪家的客服更聪明？](https://mp.weixin.qq.com/s/7WXlwHR7w5rBMG9NJTfk7Q)
 
 # 瓜子
- - [瓜子二手车封宇：瓜子IM智能客服系统数据架构设计]()
+ - [瓜子二手车封宇：瓜子IM智能客服系统数据架构设计](http://www.52im.net/thread-2807-1-1.html)
  - [回顾·对话机器人在瓜子的实践](https://mp.weixin.qq.com/s/X6S-7tdJxj0c7lv2i6Hm2Q)
  - 
 # 小冰
@@ -118,7 +118,7 @@
 
 # 其他
 ## 聊天机器人介绍
-
+- [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
 - [实录分享 | 计算未来轻沙龙：对话系统研究进展（视频 + PPT）](https://mp.weixin.qq.com/s/YxpU4Q7QsUS3RGtlcK4Gwg)
 - [聊天机器人初学者完全指南](https://mp.weixin.qq.com/s/oOfJ-i-oKVXsRFICEPes5w)
 - [万物有灵：人机对话系统解析](https://mp.weixin.qq.com/s/Nj1kwKm333sNIGuvR6L4aA)
@@ -141,7 +141,7 @@
 
 ## 其他
 - [对话机器人思考(下):复杂多轮对话的关键功能点](https://mp.weixin.qq.com/s/sBXZVFGWPRtDI2tc4Z-Rnw)
-
+- [机器人和你对话时在想什么？](https://www.infoq.cn/article/jcMG9tULS7RKIhjqbedL)
 - [ACL 2019 开源论文 | 基于知识库和大规模网络文本的问答系统](https://mp.weixin.qq.com/s/Tp751Ox-p_ctD8o19nxbrg)
 
 - [最新综述：对话系统之用户模拟器](https://mp.weixin.qq.com/s/eb0GcjdwO18-_0T9z3KdlA)
