@@ -1,7 +1,7 @@
 # chatbot-list
 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍
 
- <img src="reliao_img_1573010102391.jpeg" height = "600" div align=right />
+ <img src="qrcode.jpeg" height = "600" div align=right />
 
 # 阿里巴巴
 ## 小蜜
