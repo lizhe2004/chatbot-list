@@ -117,6 +117,11 @@
 - [15年研发经验博士手把手教学：从零开始搭建智能客服](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489645&idx=1&sn=d58d55e64aab528d9365e2438a1cc683&chksm=fbe9a1a2cc9e28b42d4a6d18a5b7d9dbeadaf96f942c73a44b9b0214c6468bbe4a014a57062d&scene=27#wechat_redirect)
 # 腾讯
 - [腾讯知文问答引擎在工业级实战中的演化](https://www.infoq.cn/article/QuWYBASaV0C9PTYpwwF0)
+# Chatopera
+- [Chatopera开源项目](https://github.com/chatopera/)
+- [打造企业聊天机器人平台服务，Chatopera在新年交汇之际完成系统升级 ](https://mp.weixin.qq.com/s/3mfOE6OfHKdqiDha_cMWSQ)
+- [关注心理健康事业，Chatopera实现心理咨询AI助手，缓解心理压力，预约心理咨询师](https://mp.weixin.qq.com/s/uFxCIxs-P1j3yAl1wfoPVw)
+- [Chatopera发布首个中文心理咨询问答语料库，助力心理咨询行业应用人工智能技术 ](https://mp.weixin.qq.com/s/IUoPxASO7WEOI-XFQGGl4w)
 # 其他
 ## 聊天机器人介绍
 - [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
