@@ -42,6 +42,7 @@
  
 ## 天猫
  - [深度揭秘天猫精灵对话引擎](https://mp.weixin.qq.com/s/6OgoSTsq8ayrvC1DxN21SA)
+-  [天猫精灵如何和我们聊天？](https://mp.weixin.qq.com/s/mrm2alBaw_hNPz_S5BG7CA)
  ## 蚂蚁
 
  - [支付宝换上“读心术”AI客服，就为配合双11剁手的你](https://mp.weixin.qq.com/s/vyVPjOhCv6Vt3CTXjzds2Q)
@@ -96,10 +97,15 @@
 - [干货回顾 |58同城—智能语音机器人助力企业提效增收](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
 - [58统称智能语音机器人后端架构解析](]https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
 - [58 同城对话机器人应用实践：本地生活服务场景中的商家智能助手](https://mp.weixin.qq.com/s/fiPaVVXKbdgTASbY-VDxbQ)
+- [沙龙干货｜基于深度学习的自动问答工具——qa_match开源项目解析直播回顾集锦](https://mp.weixin.qq.com/s/2NahwBgAnptiK5pv6vTLNQ)
 
 - [58同城对话机器人应用实践](https://live.infoq.cn/room/361?utm_source=teacher&utm_term=0720)
 - [技术沙龙回顾|AI技术如何打造58同城智能客服商家版“微聊管家”](https://mp.weixin.qq.com/s/pgpWeoES60DjYL-lUH_UNQ) 
 - [干货总结 | AI技术如何打造智能语音质检系统](https://mp.weixin.qq.com/s/_LNBIkJs_AR2GrE6I5CLYg)
+
+- [语音机器人SIP通话场景下如何捕获用户电话按键信号](https://mp.weixin.qq.com/s/7JclQ0fSlxM1mRcEce3v-Q)
+
+- [58同城AI Lab技术沙龙](https://ssl.bafst.com/static/COS-Web/mCOS/group_share.html?group=3031&inviter=1188)
 
 # 饿了么 
 - [饿了么客服体系 | 虽然天天见，我们却对它一无所知](http://m.sohu.com/a/234684739_162179)
