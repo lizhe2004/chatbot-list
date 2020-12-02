@@ -19,14 +19,14 @@
  - [干货 | 阿里小蜜-电商领域的智能助理技术实践](https://mp.weixin.qq.com/s/eFm89Q_AMeYFTrJl4uLOgA)
  - [多语言阿里小蜜——七步构建跨越语言鸿沟的对话机器人](https://www.infoq.cn/article/1pUDF9_bdC523fwHJh02)
  - [阿里小蜜中的情绪回复能力](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490526&idx=1&sn=4012fe053aeff0cd76b1aaa95421d06b&chksm=fbd4a9b2cca320a4018ed35b6b2f0a0cb21669198f28776cbb9cf4239eb6b86974a647643f4d&scene=21#wechat_redirect)
- -[什么是人机对话模型？阿里小蜜团队写了1.5万字](https://mp.weixin.qq.com/s/RnRdWhHhVE7UskBy52dKqw)
+ - [什么是人机对话模型？阿里小蜜团队写了1.5万字](https://mp.weixin.qq.com/s/RnRdWhHhVE7UskBy52dKqw)
 
- -[数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://mp.weixin.qq.com/s/iZMSgepxQ5jabACKouk9Pw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597378425&enterid=1597378425)
+ - [数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://mp.weixin.qq.com/s/iZMSgepxQ5jabACKouk9Pw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597378425&enterid=1597378425)
  - [回顾·阿里神马智能对话问答](https://mp.weixin.qq.com/s/cSqSGUbGbNunkOGVo5f_BQ)
 
  
  
- -[通用领域对话问答](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490733&idx=2&sn=7f2fe71b0805a6621e1033b4f37b4a7e&chksm=fbd4aec1cca327d7eeb439f565a3c145704ae83188d1119310700e327ca9dde7b444f060e68c&scene=21#wechat_redirect)
+ - [通用领域对话问答](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490733&idx=2&sn=7f2fe71b0805a6621e1033b4f37b4a7e&chksm=fbd4aec1cca327d7eeb439f565a3c145704ae83188d1119310700e327ca9dde7b444f060e68c&scene=21#wechat_redirect)
  ### 非技术推广
   - [小蜜家族知多少：人工智能客服如何做到“不智障”？](https://mp.weixin.qq.com/s/d86lvXwU7Z1QloPVqQfkCQ)
  - [售后智能客服：店小蜜用户体验地图](https://mp.weixin.qq.com/s/YcWJNEtU4cElBj5mapEp8Q)
@@ -48,7 +48,7 @@
  - [支付宝换上“读心术”AI客服，就为配合双11剁手的你](https://mp.weixin.qq.com/s/vyVPjOhCv6Vt3CTXjzds2Q)
  - [专访 | 蚂蚁金服MISA：比用户更懂自己的自然语言客服系统](https://mp.weixin.qq.com/s/NhfHGQG6rBRnL5PFiI4y3w)
  - [COPC高管访谈：蚂蚁金服客服服务及权益保障事业部总监，智能客服业务负责人 —— 丁翌先生](https://mp.weixin.qq.com/s/zjo-oUnVQyi3lZYQgexVcw)
-- [蚂蚁金服-“新客服”白皮书（附下载）](https://mp.weixin.qq.com/s/3KBaLgD17vXAYJ5h75M6tg)
+ - [蚂蚁金服-“新客服”白皮书（附下载）](https://mp.weixin.qq.com/s/3KBaLgD17vXAYJ5h75M6tg)
  
  - [（支付宝宣传）当人工智能遇上客服，他们是怎样让科幻变成现实？](https://mp.weixin.qq.com/s/FN-TJXxtXdA_3rvBVeVkag)
 ## 闲鱼
@@ -95,7 +95,7 @@
 - [58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
 - [回顾·五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q)
 - [干货回顾 |58同城—智能语音机器人助力企业提效增收](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
-- [58统称智能语音机器人后端架构解析](]https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
+- [58统称智能语音机器人后端架构解析](https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
 - [58 同城对话机器人应用实践：本地生活服务场景中的商家智能助手](https://mp.weixin.qq.com/s/fiPaVVXKbdgTASbY-VDxbQ)
 - [沙龙干货｜基于深度学习的自动问答工具——qa_match开源项目解析直播回顾集锦](https://mp.weixin.qq.com/s/2NahwBgAnptiK5pv6vTLNQ)
 
@@ -252,6 +252,7 @@
 - [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
 - [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
 - [【小夕精选】多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/QIXqgzK-XBRgbtfY3uP0sg)
+- [任务导向型对话系统——对话管理模型研究最新进展-2019-12-26](https://mp.weixin.qq.com/s/6wSz8wAi0vrHebZ0EJ2sZA)
 ## 知识图谱
 - [回顾·知识图谱在贝壳找房的从0到1实践](https://mp.weixin.qq.com/s/deyNno3BkqtGMdl1iD4Luw)
 
@@ -269,9 +270,13 @@
 
 - [「回顾」金融知识图谱的应用与探索](https://mp.weixin.qq.com/s/cBpdDSiEWu9S62uUlD3myQ)
 
+## 问答系统
 
+- [【问答系统】QA问答系统(Question Answering)](https://mp.weixin.qq.com/s/q8DSuodUa_XdiGYHzViCsA)
 
+- [揭开知识库问答KB-QA的面纱1·简介篇](https://mp.weixin.qq.com/s/OB6BE3XV2Vk9oiwm-l9VRA?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597373693&enterid=1597373693)
 
+- [ROCLING 2019|基于深度语义匹配，上下文相关的问答系统](https://mp.weixin.qq.com/s/bzGBKGSHuiUaMD1SV7xsAg)
 ## 智能客服
 - [十张图解读我国智能客服行业发展现状与前景](https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw)
 - [AI前沿 | 如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
