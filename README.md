@@ -19,7 +19,12 @@
  - [干货 | 阿里小蜜-电商领域的智能助理技术实践](https://mp.weixin.qq.com/s/eFm89Q_AMeYFTrJl4uLOgA)
  - [多语言阿里小蜜——七步构建跨越语言鸿沟的对话机器人](https://www.infoq.cn/article/1pUDF9_bdC523fwHJh02)
  - [阿里小蜜中的情绪回复能力](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490526&idx=1&sn=4012fe053aeff0cd76b1aaa95421d06b&chksm=fbd4a9b2cca320a4018ed35b6b2f0a0cb21669198f28776cbb9cf4239eb6b86974a647643f4d&scene=21#wechat_redirect)
- -
+ -[什么是人机对话模型？阿里小蜜团队写了1.5万字](https://mp.weixin.qq.com/s/RnRdWhHhVE7UskBy52dKqw)
+
+ -[数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://mp.weixin.qq.com/s/iZMSgepxQ5jabACKouk9Pw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597378425&enterid=1597378425)
+ - [回顾·阿里神马智能对话问答](https://mp.weixin.qq.com/s/cSqSGUbGbNunkOGVo5f_BQ)
+
+ 
  
  -[通用领域对话问答](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490733&idx=2&sn=7f2fe71b0805a6621e1033b4f37b4a7e&chksm=fbd4aec1cca327d7eeb439f565a3c145704ae83188d1119310700e327ca9dde7b444f060e68c&scene=21#wechat_redirect)
  ### 非技术推广
@@ -27,7 +32,7 @@
  - [售后智能客服：店小蜜用户体验地图](https://mp.weixin.qq.com/s/YcWJNEtU4cElBj5mapEp8Q)
 
  -
-## 其他
+### 其他
   - [为减少用户电话排队，阿里研发了智能客服调度系统](https://mp.weixin.qq.com/s/nqOvcKtxpqehWFO4XkXr5g)
   -  [阿里千亿级购物节背后，淘宝智能客服架构演进之路](https://mp.weixin.qq.com/s/tiGxIeY9sDRdbMvKxcOS7w)（ps:偏在线客服）
  
@@ -63,6 +68,9 @@
 
 - [行业智能客服构建探索](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c52f476dc96fe6e50a51cf9)
 - [干货 | 揭秘携程基于融合通讯技术的新一代客服系统](https://mp.weixin.qq.com/s/cNW_GEQXOYQvJthnVSgimw)
+- [干货 | 为了给你更好的体验，携程做了个“一站式”客服机器人](https://mp.weixin.qq.com/s/PeOWUT8UA-LCGcyKUvNEQA)
+
+-  [干货 | 每天上百万通话，携程电话系统性能测试实践](https://mp.weixin.qq.com/s/_BZ05EjLUYYQ66EzawAotg)
 
 # 去哪儿
 - [智能客服系统在机票售后的应用实践](https://mp.weixin.qq.com/s/V6sXtL22q3fV2U_6BvVxfQ)
@@ -78,12 +86,21 @@
 - [JIMI：用深度学习搞定80%的客服工作](https://mp.weixin.qq.com/s/gQf5D_hngiPk_riNrWJ9mQ)
 - [京东JIMI 技术架构](https://www.jianshu.com/p/ba70f613c0c8)
 - [开放的JIMI，开放式架构](https://mp.weixin.qq.com/s/JV2jOjbEYag2GfP4URX14A)
+- [PPT|智能客服机器人在售前导购场景中的应用实践](https://mp.weixin.qq.com/s/IMSvnq679WhxX3LNwcRQHA)
 # Uber
 - [从数据预处理到排序算法，全方位解读 Uber 人工智能客服 COTA](https://mp.weixin.qq.com/s/7cTxDaUeUxtneScFy7wAdw)
 
 # 58同城
 - [58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
 - [回顾·五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q)
+- [干货回顾 |58同城—智能语音机器人助力企业提效增收](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
+- [58统称智能语音机器人后端架构解析](]https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
+- [58 同城对话机器人应用实践：本地生活服务场景中的商家智能助手](https://mp.weixin.qq.com/s/fiPaVVXKbdgTASbY-VDxbQ)
+
+- [58同城对话机器人应用实践](https://live.infoq.cn/room/361?utm_source=teacher&utm_term=0720)
+- [技术沙龙回顾|AI技术如何打造58同城智能客服商家版“微聊管家”](https://mp.weixin.qq.com/s/pgpWeoES60DjYL-lUH_UNQ) 
+- [干货总结 | AI技术如何打造智能语音质检系统](https://mp.weixin.qq.com/s/_LNBIkJs_AR2GrE6I5CLYg)
+
 # 饿了么 
 - [饿了么客服体系 | 虽然天天见，我们却对它一无所知](http://m.sohu.com/a/234684739_162179)
 - [机器学习算法在饿了么供需平衡系统中的应用](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5/topic/5c51ba7305e8eb6bebd912af)
@@ -96,12 +113,16 @@
 []()
 # 滴滴
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
+- [滴滴KDD 2019 论文详解：基于深度学习自动生成客服对话](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495905&idx=2&sn=3983760855b39581aca844722bfcc3a4&source=41#wechat_redirect)
+
 - [智能客服渗透叫车平台易到、滴滴、首汽哪家的客服更聪明？](https://mp.weixin.qq.com/s/7WXlwHR7w5rBMG9NJTfk7Q)
 
 # 瓜子
  - [瓜子二手车封宇：瓜子IM智能客服系统数据架构设计](http://www.52im.net/thread-2807-1-1.html)
  - [回顾·对话机器人在瓜子的实践](https://mp.weixin.qq.com/s/X6S-7tdJxj0c7lv2i6Hm2Q)
- - 
+# 平安银行
+ - [平安银行智能金融在客服机器人中台的落地实践](https://mp.weixin.qq.com/s/jdJw3p5LrePW3KpG0599VA)
+
 # 小冰
 - [微软小冰对话机器人架构](https://zhuanlan.zhihu.com/p/57532328?utm_source=wechat_timeline&utm_medium=social&utm_oi=26774079537152&from=timeline)
 - [独家 | 专访微软小冰负责人李笛：智能助手是创造需求，而非仅提高效率](https://mp.weixin.qq.com/s/xiJMT5MNYPJhyGQA5BDdNw)
@@ -117,6 +138,10 @@
 - [15年研发经验博士手把手教学：从零开始搭建智能客服](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489645&idx=1&sn=d58d55e64aab528d9365e2438a1cc683&chksm=fbe9a1a2cc9e28b42d4a6d18a5b7d9dbeadaf96f942c73a44b9b0214c6468bbe4a014a57062d&scene=27#wechat_redirect)
 # 腾讯
 - [腾讯知文问答引擎在工业级实战中的演化](https://www.infoq.cn/article/QuWYBASaV0C9PTYpwwF0)
+
+# 网易
+- [深度学习在网易严选智能客服中的应用](https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA)
+
 # 其他
 ## 聊天机器人介绍
 - [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
@@ -152,9 +177,11 @@
 - [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://mp.weixin.qq.com/s/ziM0U-KEePjZLNMhK5PVXA)
 
 
+- [智能一点 回顾·开源节流的智能导购对话机器人实践](https://mp.weixin.qq.com/s/--Qw5ucG4DnnI_5ZCIHvtQ)
 
 - [AI中台——智能聊天机器人平台的架构与应用|分享实录（附视频）](https://mp.weixin.qq.com/s/c5uXsPIwFzoMwqmG2-JUPg)
 
+- [回顾·多轮对话提升自动化流程服务-Chatopera](https://mp.weixin.qq.com/s/PHwJX3QNsmoXQkXNP5x7PA)
 
 - [基于CNN和序列标注的对联机器人 | 附数据集 & 开源代码](https://mp.weixin.qq.com/s/wH8nFwaDryrjBn1y-e-QdQ)
 - [深度长文：NLP的巨人肩膀（上）](https://mp.weixin.qq.com/s/Rd3-ypRYiJObi-e2JDeOjQ)
@@ -220,6 +247,9 @@
 - [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
 - [【小夕精选】多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/QIXqgzK-XBRgbtfY3uP0sg)
 ## 知识图谱
+- [回顾·知识图谱在贝壳找房的从0到1实践](https://mp.weixin.qq.com/s/deyNno3BkqtGMdl1iD4Luw)
+
+- [基于知识图谱的问答在美团智能交互场景中的应用和演进](https://mp.weixin.qq.com/s/qn8k_6GmvTsW6TF786KWUw)
 - [基于知识图谱的人机对话系统 | 公开课笔记](https://mp.weixin.qq.com/s/vRsqMgBUI6Nv1ieFDx5jDQ)
 - [基于知识图谱的问答系统关键技术研究（一）](https://mp.weixin.qq.com/s/rpUtdoOWMX4meQjw6-D6gw)
 - [基于知识图谱的问答系统关键技术研究（三）](https://mp.weixin.qq.com/s/6D0d6Fp6wBvDyOyvFlJ1Qg)
@@ -227,6 +257,11 @@
 - [当知识图谱遇上聊天机器人](https://mp.weixin.qq.com/s/iqFXvhvYfOejaeNAhXxJEg)
 - [聊天机器人对知识图谱有哪些特殊的需求？](https://mp.weixin.qq.com/s/aHY9peDgWAVDom4at6vtSw)
 
+- [回顾·如何构建知识图谱？](https://mp.weixin.qq.com/s/CjrjC1siKf85JUL094n_jw)
+
+- [「回顾」旅游知识图谱的构建和应用](https://mp.weixin.qq.com/s/J8cllzW7M-AjLAujUu4e8A)
+
+- [「回顾」金融知识图谱的应用与探索](https://mp.weixin.qq.com/s/cBpdDSiEWu9S62uUlD3myQ)
 
 
 
