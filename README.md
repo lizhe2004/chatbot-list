@@ -7,6 +7,7 @@
 ## 小蜜
  - [阿里小蜜新一代智能对话开发平台技术解析](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247494321&idx=1&sn=7f58bafd7f1962e17f3162ef0917c431&chksm=fbd758ddcca0d1cb19c452c40697c816f788d29b90af4f703a0fc776897f80b087d0a3bc885a&scene=27#wechat_redirect)
  - [阿里小蜜：知识结构化推动智能客服升级](https://mp.weixin.qq.com/s/x9CkAyLKgLj7E7K1F2Q6iA)
+ - [知识结构化在阿里小蜜中的应用](https://mp.weixin.qq.com/s/_cFDbp6PnAEjgtDIWSBDVQ)
  - [阿里云小蜜对话机器人背后的核心算法](https://mp.weixin.qq.com/s/ksVbQq42ay5lxcfqNwBgxA)
  - [大中台、小前台，阿里小蜜这样突破对话机器人发展瓶颈](https://www.infoq.cn/article/8cN5eZ6Bgg*CWM5z5jYr)
  - [机器如何猜你所想？阿里小蜜预测平台揭秘](https://mp.weixin.qq.com/s/L5yNtibL-D9Rv9hd-WLN3g)
@@ -23,6 +24,7 @@
 
  - [数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://mp.weixin.qq.com/s/iZMSgepxQ5jabACKouk9Pw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597378425&enterid=1597378425)
  - [回顾·阿里神马智能对话问答](https://mp.weixin.qq.com/s/cSqSGUbGbNunkOGVo5f_BQ)
+ - [客服场景下的智能化实践](https://www.infoq.cn/article/ta6rxnpphlg2s05wxhdj)
 
  
  
@@ -144,7 +146,7 @@
 - [15年研发经验博士手把手教学：从零开始搭建智能客服](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247489645&idx=1&sn=d58d55e64aab528d9365e2438a1cc683&chksm=fbe9a1a2cc9e28b42d4a6d18a5b7d9dbeadaf96f942c73a44b9b0214c6468bbe4a014a57062d&scene=27#wechat_redirect)
 # 腾讯
 - [腾讯知文问答引擎在工业级实战中的演化](https://www.infoq.cn/article/QuWYBASaV0C9PTYpwwF0)
-
+- [从问答系统到 AI 中间件：云上智能机器人构建之路](https://mp.weixin.qq.com/s/hdcjW-aYoOqV1dqZosNseA)
 # 网易
 - [深度学习在网易严选智能客服中的应用](https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA)
 
