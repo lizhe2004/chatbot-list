@@ -1,5 +1,5 @@
-# chatbot-list
-行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍
+# chatbot-list   
+行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2021年4月9日）
 
  <img src="qrcode.jpg" height = "600" div align=right />
 
@@ -130,6 +130,7 @@
  - [回顾·对话机器人在瓜子的实践](https://mp.weixin.qq.com/s/X6S-7tdJxj0c7lv2i6Hm2Q)
 # 平安银行
  - [平安银行智能金融在客服机器人中台的落地实践](https://mp.weixin.qq.com/s/jdJw3p5LrePW3KpG0599VA)
+ - [平安人寿智能团队：智能问答系统的探索与实践](https://mp.weixin.qq.com/s/_R9LUJhAb0eDCs14BJsoDA)
 
 # 小冰
 - [微软小冰对话机器人架构](https://zhuanlan.zhihu.com/p/57532328?utm_source=wechat_timeline&utm_medium=social&utm_oi=26774079537152&from=timeline)
