@@ -5,6 +5,8 @@
 
 # 阿里巴巴
 ## 小蜜
+ - [阿里小蜜-智能人机交互的技术实践](https://dl.ccf.org.cn/audioVideo/detail.html?_access_code=e98a497df78041e5b3e82570d48fa2b8&id=4490608589752320&_state=&_ack=1) 
+   - [讲义附件](https://dl.ccf.org.cn/lecture/lectureDetail?id=4663454624565248) 
  - [阿里小蜜新一代智能对话开发平台技术解析](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247494321&idx=1&sn=7f58bafd7f1962e17f3162ef0917c431&chksm=fbd758ddcca0d1cb19c452c40697c816f788d29b90af4f703a0fc776897f80b087d0a3bc885a&scene=27#wechat_redirect)
  - [阿里小蜜：知识结构化推动智能客服升级](https://mp.weixin.qq.com/s/x9CkAyLKgLj7E7K1F2Q6iA)
  - [知识结构化在阿里小蜜中的应用](https://mp.weixin.qq.com/s/_cFDbp6PnAEjgtDIWSBDVQ)
