@@ -257,7 +257,6 @@
 - [干货｜深度强化学习在面向任务的对话管理中的应用](https://mp.weixin.qq.com/s/uDFsWebfLmka-zZX3Y_8kg)
 - [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
 - [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
-- [【小夕精选】多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/QIXqgzK-XBRgbtfY3uP0sg)
 - [任务导向型对话系统——对话管理模型研究最新进展-2019-12-26](https://mp.weixin.qq.com/s/6wSz8wAi0vrHebZ0EJ2sZA)
 -  知乎专题
   - [端到端的任务型对话(一)](https://zhuanlan.zhihu.com/p/64965964)
