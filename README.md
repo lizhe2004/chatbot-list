@@ -80,7 +80,8 @@
 # 去哪儿
 - [智能客服系统在机票售后的应用实践](https://mp.weixin.qq.com/s/V6sXtL22q3fV2U_6BvVxfQ)
 - [Qunar智能售后服务机器人](https://mp.weixin.qq.com/s/GLCWh1t3Lr9ixvHRdV2aEA)
-
+# 平安AI
+ - [多轮人机对话与对话管理技术探索与实践](https://mp.weixin.qq.com/s?__biz=MzU2MDkwMzEzNQ==&mid=2247484864&idx=1&sn=882afec82772a1380ae35802a1595591&chksm=fc01a370cb762a6620a0ebf3cc40746a5ba014f99eb824815e0e3e15b0fa6bbaefdffc3e2e13&mpshare=1&scene=1&srcid=&sharer_sharetime=1576719203131&sharer_shareid=aaa99b8738c1d6c23f064aa833392e12&key=c31ad9c4018d6f994e2b429ade7aaf8559e49c8883b72dcd5edf0d0c71bf6f403b490bc7ffca85300845df9a2e841812fc4b4ca52db10423e906c0eaf9baf30cc5de7e2df2c15369a7c557266c5cec89&ascene=1&uin=Mjg1NTM0NDcyMw%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=AwmzYWj%2FH1Ysg63mncMMLP0%3D&pass_ticket=vfccR9B9L%2BYta7Js8wrpJeBeJDJGstZZMAx3nIFPxbrm80JQ5MvGpqz%2FzBFJkxN4)
 # 京东
  - [“天枢”智能调度系统，让京东专属客服与您“一拍即合”](https://mp.weixin.qq.com/s/qlq_reYBMFhy75075vGKXg)
   - [干货 | 京东JIMI用户未来意图预测技术揭秘](https://mp.weixin.qq.com/s/JUdBxXXf7dGcDyn0e2ooPA)
@@ -258,6 +259,16 @@
 - [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
 - [【小夕精选】多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/QIXqgzK-XBRgbtfY3uP0sg)
 - [任务导向型对话系统——对话管理模型研究最新进展-2019-12-26](https://mp.weixin.qq.com/s/6wSz8wAi0vrHebZ0EJ2sZA)
+-  知乎专题
+  - [端到端的任务型对话(一)](https://zhuanlan.zhihu.com/p/64965964)
+  - [任务型对话系统公式建模&&实例说明](https://zhuanlan.zhihu.com/p/48268358)
+  - [总结|对话系统中的口语理解技术(SLU)（一）](https://zhuanlan.zhihu.com/p/50095779)
+  - [总结|对话系统中的口语理解技术(SLU)（二）](https://zhuanlan.zhihu.com/p/50347509)
+  - [总结|对话系统中的口语理解技术(SLU)（三）](https://zhuanlan.zhihu.com/p/50704090)
+  - [一文看懂任务型对话系统中的状态追踪（DST）](https://zhuanlan.zhihu.com/p/51476362)
+  - [一文看懂任务型对话中的对话策略学习（DPL）](https://zhuanlan.zhihu.com/p/52692962)
+  - [总结|对话系统中的自然语言生成技术（NLG）](https://zhuanlan.zhihu.com/p/49197552)
+  - [多轮对话状态追踪（DST）--模型介绍篇](https://zhuanlan.zhihu.com/p/40988001)
 ## 知识图谱
 - [回顾·知识图谱在贝壳找房的从0到1实践](https://mp.weixin.qq.com/s/deyNno3BkqtGMdl1iD4Luw)
 
