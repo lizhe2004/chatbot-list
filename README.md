@@ -180,7 +180,9 @@
 ## 其他
 - [对话机器人思考(下):复杂多轮对话的关键功能点](https://mp.weixin.qq.com/s/sBXZVFGWPRtDI2tc4Z-Rnw)
 - [机器人和你对话时在想什么？](https://www.infoq.cn/article/jcMG9tULS7RKIhjqbedL)
+- [检索式chatbot了解一下？](https://zhuanlan.zhihu.com/p/44539292)
 - [ACL 2019 开源论文 | 基于知识库和大规模网络文本的问答系统](https://mp.weixin.qq.com/s/Tp751Ox-p_ctD8o19nxbrg)
+- [认真的聊一聊对话系统（任务型、检索式、生成式对话论文与工具串讲）](https://zhuanlan.zhihu.com/p/83825070)
 
 - [最新综述：对话系统之用户模拟器](https://mp.weixin.qq.com/s/eb0GcjdwO18-_0T9z3KdlA)
 - [Domain+Intent+Slot真的在理解自然语言吗？](https://mp.weixin.qq.com/s/g89KS05W7fQndvhFPtcpYA)
@@ -244,6 +246,7 @@
 - [聊天机器人落地及进阶实战 | 公开课速记](https://mp.weixin.qq.com/s/h6BjW1nrV4z30eWfny7Wzw)
 ## 汇总
 - [聊天机器人资料汇总](https://mp.weixin.qq.com/s/7xmDcaczpda5eoViPrjLRA)
+- [英文对话系统汇总](http://nlpprogress.com/english/dialogue.html)
 - [【专知荟萃05】聊天机器人Chatbot知识资料全集（入门/进阶/论文/软件/数据/专家等）(附pdf下载)](https://mp.weixin.qq.com/s/GLrJ9HImHztVcN8w1Wk2ng)
 - [【专知荟萃04】自动问答QA知识资料全集（入门/进阶/论文/代码/数据/综述/专家等）（附pdf下载）](https://mp.weixin.qq.com/s/OFqCIMPV3oiQmZdkwoiN8Q)
 - [【专知荟萃03】知识图谱KG知识资料全集（入门/进阶/论文/代码/数据/综述/专家等）（附pdf下载）](https://mp.weixin.qq.com/s/w3Q6HdHMNhASYfzKvd2QXg)
