@@ -8,6 +8,7 @@
  - [阿里小蜜-智能人机交互的技术实践](https://dl.ccf.org.cn/audioVideo/detail.html?_access_code=e98a497df78041e5b3e82570d48fa2b8&id=4490608589752320&_state=&_ack=1) 
    - [讲义附件](https://dl.ccf.org.cn/lecture/lectureDetail?id=4663454624565248) 
  - [阿里小蜜新一代智能对话开发平台技术解析](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247494321&idx=1&sn=7f58bafd7f1962e17f3162ef0917c431&chksm=fbd758ddcca0d1cb19c452c40697c816f788d29b90af4f703a0fc776897f80b087d0a3bc885a&scene=27#wechat_redirect)
+ - [阿里小蜜智能对话开发平台的技术探索与场景实践](http://www.iqiyi.com/v_19ruevyaqk.html)
  - [阿里小蜜：知识结构化推动智能客服升级](https://mp.weixin.qq.com/s/x9CkAyLKgLj7E7K1F2Q6iA)
  - [知识结构化在阿里小蜜中的应用](https://mp.weixin.qq.com/s/_cFDbp6PnAEjgtDIWSBDVQ)
  - [阿里云小蜜对话机器人背后的核心算法](https://mp.weixin.qq.com/s/ksVbQq42ay5lxcfqNwBgxA)
@@ -235,15 +236,20 @@
 - [“小会话，大学问” - 如何让聊天机器人读懂对话历史？| 论文访谈间 #03](https://mp.weixin.qq.com/s/9PRVaafBCHy1kjO9LQyHoA)
 - [最全盘点| 入侵保险业的聊天机器人](https://mp.weixin.qq.com/s/m9HuxxQN43wCI42Lhi-m5g)
 - [推荐｜自己动手做聊天机器人（全套资料）](https://mp.weixin.qq.com/s/hOkxEPm-nPAqjcUxMYVGfA)
-- 
+- [像人一样自然流畅地说话，下一代智能对话系统还有多长的路要走？](https://mp.weixin.qq.com/s/HGfeMU3fHAZukwrvramsug)
 
 
 - [机器学习利用 Elasticsearch 进行更智能搜索](https://mp.weixin.qq.com/s/6-KAMm-HKUURR0OU_-ZhiA)
 - [用Rasa NLU构建自己的中文NLU系统](https://mp.weixin.qq.com/s/pdHAMBhNOiANe2JUUMadYw)
+- [基于RASA的task-orient对话系统解析（二）——对话管理核心模块](https://mp.weixin.qq.com/s/_zu1McixZWS-YJiTaJ6rvg)
 - [实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你](https://mp.weixin.qq.com/s/il7EJKwiAjiOmEV-xtt3IA)
 - [观点 | 如何从一名软件工程师转行做人工智能？](https://mp.weixin.qq.com/s/EB469sq3TauBk_JioIVUSw)
 - [未来，AI+多轮对话将怎样玩转智能客服](https://zhuanlan.zhihu.com/p/26296810)
 - [聊天机器人落地及进阶实战 | 公开课速记](https://mp.weixin.qq.com/s/h6BjW1nrV4z30eWfny7Wzw)
+
+- [谁能打败Siri](https://mp.weixin.qq.com/s/n9ku09g2OWvWByVLhkXbLg)
+
+
 ## 汇总
 - [聊天机器人资料汇总](https://mp.weixin.qq.com/s/7xmDcaczpda5eoViPrjLRA)
 - [英文对话系统汇总](http://nlpprogress.com/english/dialogue.html)
@@ -256,21 +262,59 @@
 
 
 - [MSRA周明博士解读：聊天机器人的三大引擎（视频+PPT）](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
+
+
+## 对话系统
+- [对话系统的开源系统&API&SDK&Framework汇总](https://mp.weixin.qq.com/s/BpruR15-s8AhFXGt1bgqqQ)
+- [强化学习在智能对话上的应用](https://mp.weixin.qq.com/s/_jFo_0O3SzbPUiPP6_lyCQ)
+
+- [最新人机对话系统简略综述](https://mp.weixin.qq.com/s/fRw4DBX_Gl5CD0kvuiS5ag)
+- [对话式交互技术原理及流程揭秘](https://mp.weixin.qq.com/s/A4r01mV-X8CTJy3vPa9BPw)
+-[一文看懂人机对话](https://mp.weixin.qq.com/s/fkcZOVJUreZqj7aQBkslog)
+- [哈工大张伟男：任务型对话系统](https://mp.weixin.qq.com/s/IVrg0tP2YH1AQB6Qm-kHoA)
+- [业界 | 人机对话评测系列之一：任务驱动多轮对话评测标准](https://mp.weixin.qq.com/s/F8BWVfYvXuPneR2SONJC2A)
+- [最新任务型对话数据集大全](https://mp.weixin.qq.com/s/pr2_EY_xA96tivJl_dB7kA)
+- [NeurlPS 2020 | 简约任务型对话，让对话实现不再繁琐](https://mp.weixin.qq.com/s/czXWQNelR_cDH6goYyrtIQ)
+- -[AI好老师：完善育人系统构架 研发育人对话系统](https://mp.weixin.qq.com/s/1W7aA2JqZiTPw5GFo99xXg)
+- [微软与清华开源多领域端到端对话系统集成平台ConvLab，帮助研究人员迅速搭建对话系统](https://mp.weixin.qq.com/s/le3ZL6NdMVovCZO0qPmz_g)
 ## 对话管理
 - [干货｜深度强化学习在面向任务的对话管理中的应用](https://mp.weixin.qq.com/s/uDFsWebfLmka-zZX3Y_8kg)
 - [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
 - [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
 - [任务导向型对话系统——对话管理模型研究最新进展-2019-12-26](https://mp.weixin.qq.com/s/6wSz8wAi0vrHebZ0EJ2sZA)
+- [AI LIVE | DSTC 8“基于Schema的对话状态追踪”竞赛冠军方案解读](https://mp.weixin.qq.com/s/9Snz6g0hOF_fv2bsaJDY8A)
+- [对话状态跟踪中关于上下文信息粒度的详细调查](https://mp.weixin.qq.com/s/rwLSfVW_xs0UEyzAXtFCNA)
+### 对话状态跟踪
+- [一起来看看最新的对话状态追踪(DST)模型](https://mp.weixin.qq.com/s/4aWPGueqL8ylhEy4XNvjxg)
+- [最新研究|Amazon AI技术改善了语音识别和对话状态跟踪](https://mp.weixin.qq.com/s/RFHUO80cCuiuZ6cj1GGJXg)
+- [大家说 | 任务型对话中的状态跟踪（Dialogue State Tracking）](https://mp.weixin.qq.com/s/CLtqs4r6XuE2gF1LjlBJUA)
+- [对话平台如何应对多领域和服务切换？基于 Schema 的对话状态追踪解决方案一则](https://mp.weixin.qq.com/s/rZTdTvkGy7N2O52moK-XCw)
+- [【字节跳动-李航】一种按序列进行对话状态跟踪的方法](https://mp.weixin.qq.com/s/bsE0iELTmRjjGaZ2e4AjiA)
+- [基于深度学习方法的对话状态跟踪综述](https://mp.weixin.qq.com/s/PNbIQNtHtm81aaa0dpnxTA)
+- [谷歌：提高长文本对话状态跟踪能力](https://mp.weixin.qq.com/s/tYC2us2MW9wZxMR4v6-9Jw)
+- 
+### 对话策略学习
+- [博客 | 一文看懂任务型对话中的对话策略学习（DPL）](https://mp.weixin.qq.com/s/9M7JyUp5FoExE-3mozRFuA)
+- [基于弱监督演示的对话策略学习](https://mp.weixin.qq.com/s/7nCxzonL0dH7Me1UjI_6xg)
+- [AI研习丨张伟男：任务型对话系统中策略优化方法回顾](https://mp.weixin.qq.com/s/pH-rXhB1rj1PMbZ2rLFn5Q)
 -  知乎专题
   - [端到端的任务型对话(一)](https://zhuanlan.zhihu.com/p/64965964)
   - [任务型对话系统公式建模&&实例说明](https://zhuanlan.zhihu.com/p/48268358)
   - [总结|对话系统中的口语理解技术(SLU)（一）](https://zhuanlan.zhihu.com/p/50095779)
   - [总结|对话系统中的口语理解技术(SLU)（二）](https://zhuanlan.zhihu.com/p/50347509)
   - [总结|对话系统中的口语理解技术(SLU)（三）](https://zhuanlan.zhihu.com/p/50704090)
-  - [一文看懂任务型对话系统中的状态追踪（DST）](https://zhuanlan.zhihu.com/p/51476362)
+  - [一文看懂任务型对话系统中的状态追踪（DST）](https://zhuanlan.zhihu.com/p/51476362)  https://mp.weixin.qq.com/s/zI1P_KJiBbA_93fwfX6lwg
   - [一文看懂任务型对话中的对话策略学习（DPL）](https://zhuanlan.zhihu.com/p/52692962)
   - [总结|对话系统中的自然语言生成技术（NLG）](https://zhuanlan.zhihu.com/p/49197552)
   - [多轮对话状态追踪（DST）--模型介绍篇](https://zhuanlan.zhihu.com/p/40988001)
+
+## 对话生成
+- [专访 | 三角兽首席科学家王宝勋：热度之下的对话生成](https://mp.weixin.qq.com/s/Or6oDt0aZFlnlMr8EBr-xQ)
+- [重磅 | 阿里巴巴年度技术总结：人工智能在搜索的应用和实践](https://mp.weixin.qq.com/s/4QhcNjs3kndqD2GFvkUOJg)
+- [干货 | 论文解读：基于动态词表的对话生成研究](https://mp.weixin.qq.com/s/RKTzh8k2-4-yVh1rrJRRQw)
+
+-
+
 ## 知识图谱
 - [回顾·知识图谱在贝壳找房的从0到1实践](https://mp.weixin.qq.com/s/deyNno3BkqtGMdl1iD4Luw)
 
@@ -295,6 +339,8 @@
 - [揭开知识库问答KB-QA的面纱1·简介篇](https://mp.weixin.qq.com/s/OB6BE3XV2Vk9oiwm-l9VRA?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597373693&enterid=1597373693)
 
 - [ROCLING 2019|基于深度语义匹配，上下文相关的问答系统](https://mp.weixin.qq.com/s/bzGBKGSHuiUaMD1SV7xsAg)
+
+
 ## 智能客服
 - [十张图解读我国智能客服行业发展现状与前景](https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw)
 - [AI前沿 | 如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
@@ -307,12 +353,14 @@
 - [当Elasticsearch遇见智能客服机器人](https://mp.weixin.qq.com/s/zjlFTc6tPVXyOYo2d4GVbQ)
 - [详解第二代客服机器人 | 聚焦问题解决，客户服务任务一站直达](https://mp.weixin.qq.com/s/OQL4Acw_6ukLhoQzR5dN7A)
 - [项目实战｜智能客服（“七鱼”、“小i机器人”）产品分析](https://www.toutiao.com/a6491864897222083085/?timestamp=1572194640&app=news_article&group_id=6491864897222083085&req_id=2019102800440001001404115117B2ADF3)
+- [国内的智能客服发展到哪一步了？这里有份追踪报告](https://mp.weixin.qq.com/s/2ynGDUmxtjOlOktxagivUg)
+
 ## 智齿
 -[智齿 | 机器人来当客服 会是什么样？](https://mp.weixin.qq.com/s/jreM-RS6JT4Fk5tk-wDS_Q)
+
 ## 知识库
 - [王浩：新一代智能化知识库（PPT可下载）](https://mp.weixin.qq.com/s/O_scTuIto698EM8oivoDoQ)
 - [新一代呼叫中心智能知识库什么样？](https://mp.weixin.qq.com/s/lkr-lqkjxXfkJ2QYP4y6lA)
 - [你问我答之「YiBot知识体系运营知多少」](https://mp.weixin.qq.com/s/9-HUoePmGvv40JVWcPtHew)
 - [揭开知识库的神秘面纱8·非结构化知识源篇](https://mp.weixin.qq.com/s/cNW_GEQXOYQvJthnVSgimw)
 - [智能客服知识库的3件核心工作](https://mp.weixin.qq.com/s/Y71NeiQ-Wcxz-bxXVhmo1g)
-
