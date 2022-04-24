@@ -1,7 +1,8 @@
 # chatbot-list   
-行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2021年7月23日）
+行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2022年04月24日）
 
  <img src="qrcode.jpg" height = "600" div align=right />
+ 
 
 # 阿里巴巴
 ## 小蜜
@@ -395,3 +396,8 @@
 * [NLP 技术在微博 feed 流中的应用](https://mp.weixin.qq.com/s/T2Nv7dQvZR6sVht1LfKSlw)
 * [Facebook 开源 Python 预测工具，用起来太方便了](https://mp.weixin.qq.com/s/nMFDgWnYarhWDJjbfujTFQ)
 
+# 贡献者
+ [lizhe2004](https://github.com/lizhe2004) 
+
+# 声明
+在复制本项目内容时，请保留贡献者信息。
