@@ -28,8 +28,6 @@
  - [数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://mp.weixin.qq.com/s/iZMSgepxQ5jabACKouk9Pw?from=groupmessage&isappinstalled=0&scene=1&clicktime=1597378425&enterid=1597378425)
  - [回顾·阿里神马智能对话问答](https://mp.weixin.qq.com/s/cSqSGUbGbNunkOGVo5f_BQ)
  - [客服场景下的智能化实践](https://www.infoq.cn/article/ta6rxnpphlg2s05wxhdj)
-
- 
  
  - [通用领域对话问答](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490733&idx=2&sn=7f2fe71b0805a6621e1033b4f37b4a7e&chksm=fbd4aec1cca327d7eeb439f565a3c145704ae83188d1119310700e327ca9dde7b444f060e68c&scene=21#wechat_redirect)
  ### 非技术推广
@@ -100,18 +98,19 @@
 # 58同城
 - [58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
 - [回顾·五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q)
-- [干货回顾 |58同城—智能语音机器人助力企业提效增收](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
+- [干货回顾 |58同城—智能语音机器人助力企业提效增收（含视频）](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
 - [58统称智能语音机器人后端架构解析](https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
 - [58 同城对话机器人应用实践：本地生活服务场景中的商家智能助手](https://mp.weixin.qq.com/s/fiPaVVXKbdgTASbY-VDxbQ)
 - [沙龙干货｜基于深度学习的自动问答工具——qa_match开源项目解析直播回顾集锦](https://mp.weixin.qq.com/s/2NahwBgAnptiK5pv6vTLNQ)
-
-- [58同城对话机器人应用实践](https://live.infoq.cn/room/361?utm_source=teacher&utm_term=0720)
+- [人机语音对话技术在58同城的应用实践_AI_DataFunTalk_InfoQ精选文章](https://www.infoq.cn/article/wq7OCd1IVGZtx2HgWtCP)
+- [58同城对话机器人应用实践](https://live.infoq.cn/room/361?utm_source=teacher&utm_term=0720) [视频版](https://www.infoq.cn/video/Vgrkkeri2gh2oERwRq8c)
 - [技术沙龙回顾|AI技术如何打造58同城智能客服商家版“微聊管家”](https://mp.weixin.qq.com/s/pgpWeoES60DjYL-lUH_UNQ) 
 - [干货总结 | AI技术如何打造智能语音质检系统](https://mp.weixin.qq.com/s/_LNBIkJs_AR2GrE6I5CLYg)
 
 - [语音机器人SIP通话场景下如何捕获用户电话按键信号](https://mp.weixin.qq.com/s/7JclQ0fSlxM1mRcEce3v-Q)
 
 - [58同城AI Lab技术沙龙](https://ssl.bafst.com/static/COS-Web/mCOS/group_share.html?group=3031&inviter=1188)
+ 
 
 # 饿了么 
 - [饿了么客服体系 | 虽然天天见，我们却对它一无所知](http://m.sohu.com/a/234684739_162179)
@@ -154,6 +153,11 @@
 - [从问答系统到 AI 中间件：云上智能机器人构建之路](https://mp.weixin.qq.com/s/hdcjW-aYoOqV1dqZosNseA)
 # 网易
 - [深度学习在网易严选智能客服中的应用](https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA)
+# OPPO
+- [QCon-小布助手对话系统工程实践_OPPO数智技术_InfoQ写作社区](https://xie.infoq.cn/article/620aed5e1ccd033d35bfe21f7)
+- 
+# 智能一点 
+- [回顾·开源节流的智能导购对话机器人实践](https://mp.weixin.qq.com/s/--Qw5ucG4DnnI_5ZCIHvtQ)
 
 # 其他
 ## 聊天机器人介绍
@@ -277,6 +281,8 @@
 - [NeurlPS 2020 | 简约任务型对话，让对话实现不再繁琐](https://mp.weixin.qq.com/s/czXWQNelR_cDH6goYyrtIQ)
 - -[AI好老师：完善育人系统构架 研发育人对话系统](https://mp.weixin.qq.com/s/1W7aA2JqZiTPw5GFo99xXg)
 - [微软与清华开源多领域端到端对话系统集成平台ConvLab，帮助研究人员迅速搭建对话系统](https://mp.weixin.qq.com/s/le3ZL6NdMVovCZO0qPmz_g)
+- [多轮对话机器人打造（上篇）：着手设计](https://mp.weixin.qq.com/s/36MbN7E1_8A7ODfMrZpPAA)
+- [机器人是如何识别你的意图的？|多轮对话机器人打造（中篇）：话题意图识别](https://mp.weixin.qq.com/s/IfxD8yFv6hAfhrTC6ysGOw)
 ## 对话管理
 - [干货｜深度强化学习在面向任务的对话管理中的应用](https://mp.weixin.qq.com/s/uDFsWebfLmka-zZX3Y_8kg)
 - [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
@@ -364,3 +370,28 @@
 - [你问我答之「YiBot知识体系运营知多少」](https://mp.weixin.qq.com/s/9-HUoePmGvv40JVWcPtHew)
 - [揭开知识库的神秘面纱8·非结构化知识源篇](https://mp.weixin.qq.com/s/cNW_GEQXOYQvJthnVSgimw)
 - [智能客服知识库的3件核心工作](https://mp.weixin.qq.com/s/Y71NeiQ-Wcxz-bxXVhmo1g)
+
+
+- [项目实战｜智能客服（“七鱼”、“小i机器人”）产品分析-今日头条](https://www.toutiao.com/article/6491864897222083085/?app=news_article&timestamp=1572194640&req_id=2019102800440001001404115117B2ADF3&group_id=6491864897222083085&wid=1650778902148)
+ ## 相关
+- [聊天机器人语言理解模型开发实践](https://gitbook.cn/books/59acc48edd6b616ee68916bb/index.html)
+- 
+- [回顾·机器人·人机交互·技术介绍](https://mp.weixin.qq.com/s/FsRgiFJ54hdNhrWPRg_xvQ)
+- [「回顾」猎户星空NLP技术进展及产品应用](https://mp.weixin.qq.com/s/kUrB0SLp-3J970e0vr6dzg)
+- [「回顾」自然语言处理中的多任务学习](https://mp.weixin.qq.com/s/b1OyN75pCwoV-inmj_U-kw)
+- [「回顾」NLP在网络文学领域的应用](https://mp.weixin.qq.com/s/XVOVsccCqNS4ki_lDGajtQ)
+- [回顾·音乐垂域的自然语言理解](https://mp.weixin.qq.com/s/1caubBnVCzweUvT3If9iOg)
+ 
+- [自然语言处理在金融实时事件监测和财务快讯中的应用](https://mp.weixin.qq.com/s/FxBA98KlBqfSeIOzQnZetQ?v_p=84&WBAPIAnalysisOriUICodes=10000001&launchid=default&wm=3333_2001&aid=01Al-jY_SziwXPF-pXFPqK4Qc5v1o2CfYw3R947RYsUwchNxY.&from=groupmessage&isappinstalled=0&scene=1&clicktime=1597368456&enterid=1597368456)
+- [[论文简介] 探索类人开放域聊天机器人](https://mp.weixin.qq.com/s/6_an8Daft4vdWpapKQPDQw)
+- [情感分析技术：让智能客服更懂人类情感-阿里云开发者社区](https://developer.aliyun.com/article/761513?utm_content=g_1000124809)
+- [快速搭建对话机器人，就用这一招！](https://mp.weixin.qq.com/s?__biz=Mzg4NDQwNTI0OQ==&mid=2247522913&idx=2&sn=b8332bf0e370cbb38f3cf54b5e667dcc&source=41#wechat_redirect)
+
+
+* [CrossWOZ，一个大规模跨领域中文任务导向对话数据集](https://mp.weixin.qq.com/s/_oEdeeTNcoJwN9_gWDsBiA)
+* [技术动态 | 多轮检索式问答](https://mp.weixin.qq.com/s/4Qp7u7EQQbN_92EcutxdIA)
+* [数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://mp.weixin.qq.com/s?__biz=Mzg4NDQwNTI0OQ==&mid=2247522987&idx=1&sn=d2e16dff86c17729f347ae8e8957d3de&source=41#wechat_redirect)
+* [语音AI革命十年，不忍看，不敢看！](https://mp.weixin.qq.com/s/i-DaY3QNHaJAWyOE55SvUQ)
+* [NLP 技术在微博 feed 流中的应用](https://mp.weixin.qq.com/s/T2Nv7dQvZR6sVht1LfKSlw)
+* [Facebook 开源 Python 预测工具，用起来太方便了](https://mp.weixin.qq.com/s/nMFDgWnYarhWDJjbfujTFQ)
+
