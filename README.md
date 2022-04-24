@@ -126,7 +126,7 @@
 # 滴滴
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
 - [滴滴KDD 2019 论文详解：基于深度学习自动生成客服对话](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495905&idx=2&sn=3983760855b39581aca844722bfcc3a4&source=41#wechat_redirect)
-
+- [KDD 2019 滴滴论文解读 | 基于深度学习自动生成客服对话摘要](https://mp.weixin.qq.com/s/ODlw0NNwlMDFOCQBd-vVZg)
 - [智能客服渗透叫车平台易到、滴滴、首汽哪家的客服更聪明？](https://mp.weixin.qq.com/s/7WXlwHR7w5rBMG9NJTfk7Q)
 
 # 瓜子
