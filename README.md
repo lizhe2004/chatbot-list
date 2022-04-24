@@ -155,6 +155,7 @@
 - [深度学习在网易严选智能客服中的应用](https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA)
 # OPPO
 - [QCon-小布助手对话系统工程实践_OPPO数智技术_InfoQ写作社区](https://xie.infoq.cn/article/620aed5e1ccd033d35bfe21f7)
+- [对话系统简介与OPPO小布助手的工程实践_人工智能_OPPO小布助手_InfoQ写作社区](https://xie.infoq.cn/article/e633a9d506f87438df71c9abe)
 - 
 # 智能一点 
 - [回顾·开源节流的智能导购对话机器人实践](https://mp.weixin.qq.com/s/--Qw5ucG4DnnI_5ZCIHvtQ)
@@ -194,9 +195,7 @@
 - [通用领域对话问答](https://mp.weixin.qq.com/s/gTytudJl4UY0_A4WkuNn0Q)
 
 - [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://mp.weixin.qq.com/s/ziM0U-KEePjZLNMhK5PVXA)
-
-
-- [智能一点 回顾·开源节流的智能导购对话机器人实践](https://mp.weixin.qq.com/s/--Qw5ucG4DnnI_5ZCIHvtQ)
+ 
 
 - [AI中台——智能聊天机器人平台的架构与应用|分享实录（附视频）](https://mp.weixin.qq.com/s/c5uXsPIwFzoMwqmG2-JUPg)
 
@@ -283,6 +282,7 @@
 - [微软与清华开源多领域端到端对话系统集成平台ConvLab，帮助研究人员迅速搭建对话系统](https://mp.weixin.qq.com/s/le3ZL6NdMVovCZO0qPmz_g)
 - [多轮对话机器人打造（上篇）：着手设计](https://mp.weixin.qq.com/s/36MbN7E1_8A7ODfMrZpPAA)
 - [机器人是如何识别你的意图的？|多轮对话机器人打造（中篇）：话题意图识别](https://mp.weixin.qq.com/s/IfxD8yFv6hAfhrTC6ysGOw)
+- [下一代对话系统中的关键技术](https://xie.infoq.cn/article/7d22cca87d3ead2116989054b)
 ## 对话管理
 - [干货｜深度强化学习在面向任务的对话管理中的应用](https://mp.weixin.qq.com/s/uDFsWebfLmka-zZX3Y_8kg)
 - [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
