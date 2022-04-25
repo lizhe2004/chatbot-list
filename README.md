@@ -98,7 +98,8 @@
 
 # 58同城
 - [58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
-- [回顾·五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q) [ppt 提取码 z6i0](https://www.aliyundrive.com/s/aKcH3qJzq1T)
+- [回顾·五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q) [ppt 提取码 z6i0](https://www.aliyundrive.com/s/aKcH3qJzq1T) [视频提取码: z6i0](https://www.aliyundrive.com/s/Wp5yR7RC48T) 
+点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。]
 - [干货回顾 |58同城—智能语音机器人助力企业提效增收（含视频）](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
 - [58统称智能语音机器人后端架构解析](https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
 - [58 同城对话机器人应用实践：本地生活服务场景中的商家智能助手](https://mp.weixin.qq.com/s/fiPaVVXKbdgTASbY-VDxbQ)
@@ -122,7 +123,7 @@
 - [「回顾」智变中的美团客服](https://mp.weixin.qq.com/s/oU2FbqJEqnx4qp1HOmsuYA)
 - [美团对话理解技术及实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490791&idx=1&sn=a29c66fab4bb2d9aa6d8ec3cb14925e6&chksm=fbd4ae8bcca3279dc3e7c01140a1d18f4d32bd2a5ff0f2b0a60b83fcd7969e61c03f3aeba8f1&scene=21#wechat_redirect)
 - [基于知识图谱的问答在美团智能交互场景中的应用和演进](https://mp.weixin.qq.com/s/qn8k_6GmvTsW6TF786KWUw)
-[]()
+- [美团智能客服核心技术与实践](https://mp.weixin.qq.com/s/erwp-NAoBunA03WkhtFycw) [视频版]()
 # 滴滴
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
 - [滴滴KDD 2019 论文详解：基于深度学习自动生成客服对话](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495905&idx=2&sn=3983760855b39581aca844722bfcc3a4&source=41#wechat_redirect)
