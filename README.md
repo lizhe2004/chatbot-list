@@ -99,7 +99,6 @@
 # 58同城
 - [58智能客服QABot问答机器人算法实践](https://mp.weixin.qq.com/s/o7x1BigfIMJIJEGxlFlLow)
 - [回顾·五八同城智能客服系统“帮帮”技术揭秘](https://mp.weixin.qq.com/s/5ewD2xD8J08W89-Rwixw4Q) [ppt 提取码 z6i0](https://www.aliyundrive.com/s/aKcH3qJzq1T) [视频提取码: z6i0](https://www.aliyundrive.com/s/Wp5yR7RC48T) 
-点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。]
 - [干货回顾 |58同城—智能语音机器人助力企业提效增收（含视频）](https://mp.weixin.qq.com/s/ZeryvVaKVrOHQKdROMZDIg)
 - [58统称智能语音机器人后端架构解析](https://appdqhwe5127073.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMjI2NTI4ZTRiMDI1ZmYyY2Y3NWQyZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBEUWh3RTUxMjcwNzMiLCJleHRyYV9kYXRhIjowfQ)
 - [58 同城对话机器人应用实践：本地生活服务场景中的商家智能助手](https://mp.weixin.qq.com/s/fiPaVVXKbdgTASbY-VDxbQ)
