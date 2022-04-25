@@ -153,9 +153,9 @@
 - [腾讯知文问答引擎在工业级实战中的演化](https://www.infoq.cn/article/QuWYBASaV0C9PTYpwwF0)
 - [从问答系统到 AI 中间件：云上智能机器人构建之路](https://mp.weixin.qq.com/s/hdcjW-aYoOqV1dqZosNseA)
 # 网易
-- [深度学习在网易严选智能客服中的应用](https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA)
+- [深度学习在网易严选智能客服中的应用](https://mp.weixin.qq.com/s/SPtNy_1_6fiFXKukMmVPlA)](
 # OPPO
-- [QCon-小布助手对话系统工程实践_OPPO数智技术_InfoQ写作社区](https://xie.infoq.cn/article/620aed5e1ccd033d35bfe21f7)
+- [QCon-小布助手对话系统工程实践_OPPO数智技术_InfoQ写作社区](https://xie.infoq.cn/article/620aed5e1ccd033d35bfe21f7) [视频版   提取码: z6i0](https://www.aliyundrive.com/s/gkKT5sCYQoq)
 - [对话系统简介与OPPO小布助手的工程实践_人工智能_OPPO小布助手_InfoQ写作社区](https://xie.infoq.cn/article/e633a9d506f87438df71c9abe)
 - 
 # 智能一点 
