@@ -1,5 +1,5 @@
 # chatbot-list   
-行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2022年04月24日）
+行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2022年04月28日）
 
  <img src="qrcode.jpg" height = "600" div align=right />
  
@@ -123,6 +123,8 @@
 - [美团对话理解技术及实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247490791&idx=1&sn=a29c66fab4bb2d9aa6d8ec3cb14925e6&chksm=fbd4ae8bcca3279dc3e7c01140a1d18f4d32bd2a5ff0f2b0a60b83fcd7969e61c03f3aeba8f1&scene=21#wechat_redirect)
 - [基于知识图谱的问答在美团智能交互场景中的应用和演进](https://mp.weixin.qq.com/s/qn8k_6GmvTsW6TF786KWUw)
 - [美团智能客服核心技术与实践](https://mp.weixin.qq.com/s/erwp-NAoBunA03WkhtFycw) [视频版]()
+
+
 # 滴滴
 - [智能机器人在滴滴出行场景的技术探索](https://mp.weixin.qq.com/s/MSy8OHzR3avObmOq9uSSFQ)
 - [滴滴KDD 2019 论文详解：基于深度学习自动生成客服对话](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247495905&idx=2&sn=3983760855b39581aca844722bfcc3a4&source=41#wechat_redirect)
@@ -157,10 +159,18 @@
 # OPPO
 - [QCon-小布助手对话系统工程实践_OPPO数智技术_InfoQ写作社区](https://xie.infoq.cn/article/620aed5e1ccd033d35bfe21f7) [视频版   提取码: z6i0](https://www.aliyundrive.com/s/gkKT5sCYQoq)
 - [对话系统简介与OPPO小布助手的工程实践_人工智能_OPPO小布助手_InfoQ写作社区](https://xie.infoq.cn/article/e633a9d506f87438df71c9abe)
-- 
-# 智能一点 
+- [OPPO小布助手算法系统的探索、实践与思考_人工智能_OPPO小布助手_InfoQ写作社区](https://xie.infoq.cn/article/76a38c4d6d04b9a57b1362c40)
+- [对话交互：封闭域任务型与开放域闲聊算法技术_人工智能_OPPO小布助手_InfoQ写作社区](https://xie.infoq.cn/article/d2c9818def66c79fe88ae32b3)
+- [OPPO小布助手算法系统探索、实践与思考_算法_OPPO数智技术_InfoQ写作社区](https://xie.infoq.cn/article/b27df03e4fb31adce94c7026e)
+ 
+ # 智能一点 
 - [回顾·开源节流的智能导购对话机器人实践](https://mp.weixin.qq.com/s/--Qw5ucG4DnnI_5ZCIHvtQ)
 
+# 接口定义参考
+- [百度智能对话平台UNIT-企业版](https://cloud.baidu.com/doc/ICS/s/Okdoaecae#151-nlu-%E5%88%86%E6%9E%90)
+- [UNIT智能对话定制与服务平台- 文档中心](https://ai.baidu.com/ai-doc/UNIT/qkpzeloou)
+- [阿里云智能对话机器人会话API](https://help.aliyun.com/document_detail/86145.html) 
+- [华为云问答机器人API](https://support.huaweicloud.com/api-cbs/cbs_03_0115.html)
 # 其他
 ## 聊天机器人介绍
 - [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
@@ -263,8 +273,6 @@
 - [必读论文 | 20 篇聊天机器人领域必读论文速递！](https://www.aminer.cn/research_report/5e96a890ab6e30e67b2c7875?download=false&from=singlemessage&isappinstalled=0)
 
 
-
-
 - [MSRA周明博士解读：聊天机器人的三大引擎（视频+PPT）](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
 
 
@@ -338,6 +346,7 @@
 - [「回顾」旅游知识图谱的构建和应用](https://mp.weixin.qq.com/s/J8cllzW7M-AjLAujUu4e8A)
 
 - [「回顾」金融知识图谱的应用与探索](https://mp.weixin.qq.com/s/cBpdDSiEWu9S62uUlD3myQ)
+- [知识图谱在智能客服中的应用](https://www.itdks.com/Course/detail?id=6545&from=search)
 
 ## 问答系统
 
@@ -396,6 +405,15 @@
 * [NLP 技术在微博 feed 流中的应用](https://mp.weixin.qq.com/s/T2Nv7dQvZR6sVht1LfKSlw)
 * [Facebook 开源 Python 预测工具，用起来太方便了](https://mp.weixin.qq.com/s/nMFDgWnYarhWDJjbfujTFQ)
 
+# 入门
+- [人机对话系统](https://www.itdks.com/Course/detail?id=6127&from=search)
+- [Chatbot对话式交互与API设计](https://www.itdks.com/Course/detail?id=9416&from=search)
+- [对话即平台：利用人工智能以及云平台打造你的智能机器人](https://www.itdks.com/Course/detail?id=631&from=search)
+[如何打造主动对话式AI](https://www.itdks.com/Course/detail?id=14821&from=search)
+[知识图谱及其在问答和对话中的应用](https://www.itdks.com/Course/detail?id=16678&from=search)
+[对话机器人如何落地](https://www.itdks.com/Course/detail?id=4261&from=search)
+[对话式AI在客户联络中心的应用](https://www.itdks.com/Course/detail?id=15439&from=search)
+ 
 # 贡献者
  [lizhe2004](https://github.com/lizhe2004) 
 
