@@ -1,8 +1,16 @@
 # chatbot-list   
-行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2022年04月28日）
+行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2024年008月28日）
 
  <img src="qrcode.jpg" height = "600" div align=right />
  
+# 大模型时代
+## 企业级实践
+- [B站大模型×领域RAG：打造高效、智能化的用户服务体验](https://www.alipan.com/s/KQBhhZvaUVK)
+- [哈啰出行从Copilot到Agent模式的探索-贾立](https://www.alipan.com/s/U58jxu9vrKd)
+- [51Talk-AI+Agent+-+在业务增长中的落地实践](https://www.alipan.com/s/ztfCspjsvDG)
+- [万科物业科技](https://www.alipan.com/s/95dev73WiRM)
+- [京东商家助手](https://www.alipan.com/s/xCFX3Sf9zjn)
+- [58同城-灵犀大模型](https://www.alipan.com/s/TevoFZfweHH)
 
 # 阿里巴巴
 ## 小蜜
