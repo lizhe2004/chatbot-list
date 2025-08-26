@@ -1,10 +1,10 @@
 # chatbot-list   
-行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2024年008月28日）
-
- <img src="qrcode.jpg" height = "600" div align=right />
+行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍 ( last update: 2025年08月26日）
  
 # 大模型时代
 ## 企业级实践
+- [开天大模型与知识图谱在智能客服场景应用探索 ](https://www.alipan.com/s/vrXWNs9xNWH)
+- [吕帆-哔哩哔哩基于云的客服架构体系](https://arxiv.org/abs/2501.09136)
 - [B站大模型×领域RAG：打造高效、智能化的用户服务体验](https://www.alipan.com/s/KQBhhZvaUVK)
 - [哈啰出行从Copilot到Agent模式的探索-贾立](https://www.alipan.com/s/U58jxu9vrKd)
 - [51Talk-AI+Agent+-+在业务增长中的落地实践](https://www.alipan.com/s/ztfCspjsvDG)
