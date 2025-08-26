@@ -5,6 +5,8 @@
 ## 企业级实践
 - [开天大模型与知识图谱在智能客服场景应用探索 ](https://www.alipan.com/s/vrXWNs9xNWH)
 - [吕帆-哔哩哔哩基于云的客服架构体系](https://www.alipan.com/s/teN6rmMSMQE)
+- [AIConf 阿里云客户服务领域Agent在业务提效上的思考与创新实践_姜剑(飞樰)](https://www.alipan.com/s/gw8a3SXLCoL)
+- [AI conf 许小川-腾讯云顾问：从人到数智平台，用 AI 重塑 SRE](https://www.alipan.com/s/gx4yaeo4pTX)
 - [B站大模型×领域RAG：打造高效、智能化的用户服务体验](https://www.alipan.com/s/KQBhhZvaUVK)
 - [哈啰出行从Copilot到Agent模式的探索-贾立](https://www.alipan.com/s/U58jxu9vrKd)
 - [51Talk-AI+Agent+-+在业务增长中的落地实践](https://www.alipan.com/s/ztfCspjsvDG)
